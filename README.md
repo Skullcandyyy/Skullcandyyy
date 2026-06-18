@@ -1,5 +1,5 @@
 # 💫 About Me:
-Aspiring AI/ML and Full Stack Developer with experience in Python, Streamlit, LangChain, frontend/backend<br>development, and RAG-based AI applications. Skilled in building web applications, chatbot systems, and solving<br>real-world problems using modern technologies. .<br>
+Aspiring AI/ML and Full Stack Developer with experience in Python, Streamlit, LangChain, frontend/backend<br>development, and RAG-based AI applications. Skilled in building web applications, chatbot systems, and solving<br>real-world problems using modern technologies.<br>
 
 
 ## 🌐 Socials:
