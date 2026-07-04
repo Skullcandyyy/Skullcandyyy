@@ -1,16 +1,28 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=A855F7¢er=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Skullcandyyy;AI+%26+Full-Stack+Developer;Building+the+future+with+code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A855F7¢er=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Rohit+Kumar;AI+%26+Full-Stack+Developer;Building+the+future+with+code" alt="Typing SVG" />
+  <br/>
+  <img src="https://img.shields.io/badge/Focus-AI%20%26%20LLMs-A855F7?style=flat-square&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Location-India-06B6D4?style=flat-square&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Open%20to-Collaborate-10B981?style=flat-square&labelColor=0d1117" />
 </div>
 
 ---
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> About Me
 
+<div>
+  <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250" />
+</div>
+
 - 🔭 Currently building **AI-powered applications** with RAG & LLMs
-- 🌱 Exploring **Generative AI**, **Prompt Engineering**, and **Voice Automation**
+- 🌱 Diving deep into **Generative AI**, **Prompt Engineering**, and **Voice Automation**
 - 💬 Ask me about **LangChain**, **React/Next.js**, **MERN Stack**
 - 🎓 **BTech in Computer Science** — KCC Institute Of Technology And Management *(2022 – 2026)*
-- 📊 GPA: **7.9 / 10.0**
+- 📊 **GPA:** 7.9 / 10.0
+- ⚡ **Fun fact:** I turn coffee into code and ideas into products
+- 🎯 **Goal:** Build AI solutions that solve real-world problems
+
+<br/>
 
 ---
 
@@ -71,6 +83,9 @@
         <li>Interactive Streamlit UI for document-based Q&A</li>
         <li>Improved accuracy via retrieval context + LLM responses</li>
       </ul>
+      <p align="center">
+        <a href="https://github.com/Skullcandyyy"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github" /></a>
+      </p>
     </td>
     <td width="50%">
       <h3 align="center">🛒 Re-Con — AI E-Commerce Platform</h3>
@@ -86,6 +101,9 @@
         <li>Voice automation & recognition using Vosk STT</li>
         <li>Scalable MongoDB schema for users & products</li>
       </ul>
+      <p align="center">
+        <a href="https://github.com/Skullcandyyy"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github" /></a>
+      </p>
     </td>
   </tr>
   <tr>
@@ -103,6 +121,9 @@
         <li>Automated text-processing workflow for response generation</li>
         <li>Clean Streamlit interface for user interaction</li>
       </ul>
+      <p align="center">
+        <a href="https://github.com/Skullcandyyy"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github" /></a>
+      </p>
     </td>
   </tr>
 </table>
@@ -124,20 +145,38 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Skullcandyyy&bg_color=0d1117&color=A855F7&line=A855F7&point=ffffff&area=true&hide_border=true" width="100%" />
 </div>
 
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Skullcandyyy&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" width="100%" />
+</div>
+
+---
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> This Week I Focused On
+
+<div align="center">
+  <img src="https://img.shields.io/badge/🔨 Building%20RAG%20systems%20with%20LangChain-A855F7?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/📖 Learning%20Advanced%20Prompt%20Engineering-06B6D4?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/⚡ Optimizing%20MERN%20apps-10B981?style=for-the-badge&labelColor=0d1117" />
+</div>
+
 ---
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Connect With Me
 
 <div align="center">
   <a href="https://github.com/Skullcandyyy"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://twitter.com/your-handle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/rohit-kumar-323397245/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:rohitk22910@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <br/><br/>
   <img src="https://komarev.com/ghpvc/?username=Skullcandyyy&label=Profile%20Views&color=A855F7&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/Skullcandyyy?style=for-the-badge&color=A855F7&label=Followers" />
+  <img src="https://img.shields.io/github/stars/Skullcandyyy?style=for-the-badge&color=A855F7&label=Total%20Stars" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=A855F7&height=100§ion=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=A855F7&height=120§ion=footer" />
 </div>
